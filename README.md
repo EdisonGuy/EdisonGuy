@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EdisonGuy
+- 📫 How to reach me edisonguy1121@gmail.com
+- I am looking for Frontend Angular Developer
